@@ -2,19 +2,6 @@
 
 This project aims to predict house prices using various features such as square footage, number of bedrooms, and the age of the house. A linear regression model is built to make predictions and evaluate the model's performance.
 
-## Project Structure
-
-house-price-prediction/ ├── data/
-│ └── imoveis.csv # Dataset
-├── src/
-│ └── data_preprocessing.py # Data loading and cleaning
-│ └── model_training.py # Model creation, training, and evaluation
-│ └── visualization.py # Visualization of results
-├── notebooks/
-│ └── exploratory_analysis.ipynb # Jupyter notebook for EDA
-├── requirements.txt # Project dependencies
-├── README.md # Project description and instructions
-└── model.pkl # Saved model
 
 ## Overview
 
